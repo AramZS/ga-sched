@@ -1,6 +1,6 @@
 <?php
 define('ga_email','azs.gmu@gmail.com');
-define('ga_password','');
+define('ga_password','text%4gM');
 define('ga_profile_id','46304379');
 
 require 'gapi.class.php';
